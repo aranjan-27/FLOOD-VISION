@@ -1,0 +1,18 @@
+3.OBJECTIVES
+
+1.	To Develop a Flood Prediction System
+–	Build a system that can predict flood risk using data.
+2.	To Use Real-World Dataset
+–	Use actual flood and rainfall data for better accuracy.
+3.	To Apply Machine Learning Technique
+–	Use algorithms like Random Forest for prediction
+4.	To Improve Prediction Accuracy
+–	Ensure this approach gives correct and reliable results.
+5.	To Classify Flood Risk Levels
+–	Categorize risk into Low, Medium, and High.
+6.	To Reduce Manual Effort
+–	Automate the prediction process to save time and effort.
+7.	To Support Disaster Management– Help authorities take early preventive actions.
+8.	To Enable Future Enhancements
+–	Allow improvements like real-time data and time series forecasting.
+“These objectives guided us throughout the project development.”
